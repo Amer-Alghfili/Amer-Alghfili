@@ -8,7 +8,7 @@
 	<img src="https://komarev.com/ghpvc/?username=Amer-Alghfaili&color=orange&style=for-the-badge" alt="7oSkaaa" /> 
 
 ## :sassy_man:  About me
-- 🧑‍💻 I am a Sfotware Engineer
+- 🧑‍💻 I am a Software Engineer
 - 📚 I share what I learn and read about programming
   
 <br>
