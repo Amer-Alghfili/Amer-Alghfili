@@ -45,13 +45,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</a>
- <a href="https://nodejs.org/en/" target="_blank"> 
-   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </a>
 </p>
