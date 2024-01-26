@@ -13,10 +13,6 @@
   
 <br>
   
-## ✍️ My Latest Blog Posts
-  - [Coercion](https://www.amer-alghfaili.me/blog/coercion)
-  - [Lexical Environment, Execution Context & Closures](https://www.amer-alghfaili.me/blog/closure)
-  
 ## 📺 My Latest YouTube Videos
   - [Closure](https://www.youtube.com/watch?v=6n91XmAsdiY)
   - [Execution Context](https://www.youtube.com/watch?v=LOz-MCHI7Tg)
