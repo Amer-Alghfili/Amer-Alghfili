@@ -34,7 +34,7 @@
 
 <p align="center"> 
 <a href="https://nextjs.org/" target="_blank"> 
-    <img alt="Next" src="https://img.shields.io/badge/Next-38B2AC.svg?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB">
+    <img alt="Next" src="https://img.shields.io/badge/Next-61dafb.svg?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB">
   </a> 
   <a href="https://reactjs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
