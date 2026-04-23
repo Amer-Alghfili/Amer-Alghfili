@@ -16,7 +16,7 @@
   - [Execution Context](https://www.youtube.com/watch?v=LOz-MCHI7Tg)
   - [Lexical environment](https://www.youtube.com/watch?v=mqZYQLxQez8)
  
-</p>
+<br>
 
 ## 🛠️ My Skills
 
